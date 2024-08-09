@@ -70,7 +70,7 @@ body{
 }
 @media (max-width:360px){
     .wrapper{
-        height: 170rem;
+        height: 160rem;
     }
     .img-part img{
         width: 100%;
